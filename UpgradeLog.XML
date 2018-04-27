@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sky">
+</Property><Property Name="Solution File" Value="C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Sky.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Sky.suo">
+</Property><Property Name="Date" Value="mercredi 18 février 2015">
+</Property><Property Name="Time" Value="01:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sky.sln" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sky.suo" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky.suo">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Sky.vbproj" Description="Project file successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\Sky.vbproj">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Sky.vbproj.user" Description="Project user file successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\Sky.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\frmMain.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\frmMain.Designer.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Grid.Designer.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\Grid.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Grid.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\Grid.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Module1.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\Module1.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Sky Icon.ico" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\Sky Icon.ico">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\frmMain.resx" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Grid.resx" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\Grid.resx">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Rui\Dropbox\DEVELOPMENT.vb\Sky\Backup\Backup\Sky\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Sky.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sky" Source="Sky\Sky.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sky.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sky.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sky" Source="Sky\Sky.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

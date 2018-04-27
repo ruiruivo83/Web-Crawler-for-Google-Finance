@@ -1,0 +1,47 @@
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\bin\Debug\Sky.exe
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\bin\Debug\Sky.pdb
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\bin\Debug\Sky.xml
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.frmMain.resources
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.Grid.resources
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.Resources.resources
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.vbproj.GenerateResource.Cache
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.exe
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.xml
+D:\Dropbox\Development\DEVELOPMENT.vb\Backup\Sky\obj\Debug\Sky.pdb
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\bin\Debug\Sky.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\bin\Debug\Sky.pdb
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\bin\Debug\Sky.xml
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.vbprojResolveAssemblyReference.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.frmMain.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.Grid.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.Resources.resources
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.vbproj.GenerateResource.Cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.vbproj.CoreCompileInputs.cache
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.exe
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.xml
+E:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\Backup\Sky\obj\Debug\Sky.pdb
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\bin\Debug\Sky.exe
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\bin\Debug\Sky.pdb
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\bin\Debug\Sky.xml
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.vbprojResolveAssemblyReference.cache
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.frmMain.resources
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.Grid.resources
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.Resources.resources
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.vbproj.GenerateResource.Cache
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.vbproj.CoreCompileInputs.cache
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.exe
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.xml
+C:\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.pdb
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\bin\Debug\Sky.exe
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\bin\Debug\Sky.pdb
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\bin\Debug\Sky.xml
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.vbprojResolveAssemblyReference.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.frmMain.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.Grid.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.Resources.resources
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.vbproj.GenerateResource.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.vbproj.CoreCompileInputs.cache
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.exe
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.xml
+C:\Users\ruivo\Dropbox\- DEVELOPMENT\DEVELOPMENT.Visual Basic\- Sky Scanner V3 - OK\Sky\obj\Debug\Sky.pdb
